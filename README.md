@@ -1,4 +1,4 @@
-# Depix
+# Depix（可去马赛克）
 
 Depix is a tool for recovering passwords from pixelized screenshots.
 
